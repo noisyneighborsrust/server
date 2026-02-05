@@ -26,7 +26,18 @@ KITS & UTILITIES
 Builder Bob: https://raw.githubusercontent.com/noisyneighborsrust/server/main/BuilderBob.png
 Food Kit: https://raw.githubusercontent.com/noisyneighborsrust/server/main/FoodKit.png
 Fuel Kit: https://raw.githubusercontent.com/noisyneighborsrust/server/main/FuelKit.png
+Gambling Kit: https://raw.githubusercontent.com/noisyneighborsrust/server/main/GamblingKit.png
+Kit-Haz AK: https://raw.githubusercontent.com/noisyneighborsrust/server/main/Kit-HazAK.png
+Kit-Haz Mp5: https://raw.githubusercontent.com/noisyneighborsrust/server/main/Kit-HazMp5.png
+Kit-Metal AK: https://raw.githubusercontent.com/noisyneighborsrust/server/main/Kit-MetalAK.png
+Kit-Metal AK Plus: https://raw.githubusercontent.com/noisyneighborsrust/server/main/Kit-MetalAKPlus.png
+Kit-Noisy 4th of July: https://raw.githubusercontent.com/noisyneighborsrust/server/main/Kit-Noisy4thofJuly.png
+Kit-Noisy Christmas Kit: https://raw.githubusercontent.com/noisyneighborsrust/server/main/Kit-NoisyChristmasKit.png
+Kit-Noisy Music Kit: https://raw.githubusercontent.com/noisyneighborsrust/server/main/Kit-NoisyMusicKit.png
+Kit-Noisy Nitro Boost: https://raw.githubusercontent.com/noisyneighborsrust/server/main/Kit-NoisyNitroBoost.png
 Starter Kit: https://raw.githubusercontent.com/noisyneighborsrust/server/main/StarterKit.png
 Tool Kit: https://raw.githubusercontent.com/noisyneighborsrust/server/main/ToolKit.png
+VIP Electrical: https://raw.githubusercontent.com/noisyneighborsrust/server/main/VIPElectrical.png
+VIP Kitty Kat: https://raw.githubusercontent.com/noisyneighborsrust/server/main/VIPKittyKat.png
 VIP Recycler: https://raw.githubusercontent.com/noisyneighborsrust/server/main/VIPRecycler.png
 VIP Resources: https://raw.githubusercontent.com/noisyneighborsrust/server/main/VIPResources.png
